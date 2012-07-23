@@ -1,0 +1,15 @@
+<div id="katies-bio">
+  <img style="float:left; padding-right: 20px;" src="https://si0.twimg.com/profile_images/2425642002/22jp151jw5bqw2y8hf1n.jpeg"/>
+  <h1 style="margin-bottom: 5px">Katie Roberts</h1>
+  <em>Interactive Designer</em>
+  <p style="width:640px; line-height: 1.3em;">Katie is simply amazing.  We don't know what we would do without her.
+    She not only is fluent the Adobe Suite for quick mock-ups and chop-ups, but
+    she is also brilliant at cutting up designs into HTML and CSS.
+    Since she works right in the repo, her work is essential to keeping our team flexible and AGILE. And she's cute.
+  </p>
+  <a style="color:red; text-decoration: none; clear: both;" href="https:www.ktluroberts.com">ktluroberts.com</a>
+  &nbsp;•
+  <a style="color:red; text-decoration: none; clear: both;" href="https://twitter.com/ktluroberts">@ktluroberts</a>
+  &nbsp;•
+  <a style="color:red; text-decoration: none;" href="http://www.linkedin.com/in/ktluroberts">LinkedIn</a>
+</div>
